@@ -46,7 +46,7 @@ amplify push
 ```
 
 ### Option B:
-# Build and deploy
+Build and deploy
 sam build
 sam deploy --guided
 
