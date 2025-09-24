@@ -1,4 +1,4 @@
-# Hackathon — AppSync GraphQL API ⚡️
+# Hackathon — AppSync GraphQL API 
 
 A hackathon-ready, serverless GraphQL stack on **AWS AppSync** with real-time subscriptions, backed by **Amazon DynamoDB** and optional **AWS Lambda** resolvers. Includes a lightweight client to demo Queries, Mutations, and Subscriptions.
 
